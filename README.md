@@ -1,4 +1,4 @@
-# Hey, I'm Priscilla — aka cibercazadora (cyberhuntress in Spanish) 👋
+# Hey, I'm Priscilla, aka cibercazadora (cyberhuntress in Spanish) 👋
 
 Cuban-Mexican American. Military brat. Proud USAF veteran.
 Cybersecurity leader by day, identity engineer by night.
