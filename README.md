@@ -30,7 +30,7 @@ Azure Entra ID | SAML | OIDC | SCIM | SSO | MFA | PAM
 RBAC | JIT Provisioning | Identity Lifecycle | Least Privilege
 
 **Device & Endpoint Security**
-Microsoft Intune | Jamf Pro | CrowdStrike | SentinelOne
+Microsoft Intune | Jamf Pro | Sophos |
 Conditional Access | Device Posture Enforcement
 
 **Zero Trust & Network Access**
