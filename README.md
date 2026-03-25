@@ -1,7 +1,7 @@
 # Hey, I'm Priscilla, aka cibercazadora (cyberhuntress in Spanish) 👋
 
 Cuban-Mexican American. Military brat. Proud USAF veteran.
-Cybersecurity leader by day, identity engineer by night.
+Cybersecurity leader by day, security engineer by night.
 
 ---
 
@@ -10,7 +10,7 @@ Cybersecurity leader by day, identity engineer by night.
 and compliance. Currently building in public: identity automation,
 Microsoft Graph API, and hands-on security labs.
 
-CISSP | GCPN | GCHFI | CompTIA Network+
+CISSP | GCPN | GFACT | CEH | CHFI | CompTIA Network+
 
 ---
 
