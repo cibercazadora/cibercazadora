@@ -30,39 +30,6 @@ CISSP | GCPN | GFACT | CEH | CHFI | CompTIA Network+
 
 ---
 
-## Skills & Tools
-
-**Identity & Access Management**
-Azure Entra ID | SAML | OIDC | SCIM | SSO | MFA | PAM
-RBAC | JIT Provisioning | Identity Lifecycle | Least Privilege
-
-**Device & Endpoint Security**
-Microsoft Intune | Jamf Pro | Sophos |
-Conditional Access | Device Posture Enforcement
-
-**Zero Trust & Network Access**
-Cloudflare Access | Tailscale | Palo Alto Prisma Access | ZTNA
-
-**Scripting & Automation**
-Python | Bash | PowerShell | Terraform | CI/CD
-
-**Security Operations**
-Microsoft Sentinel | Defender XDR | EDR | DLP | Microsoft Purview
-KQL | Incident Response | Vulnerability Management (Tenable)
-
-**Cloud Platforms**
-Microsoft Azure | AWS | Microsoft 365 | Google Workspace
-
-**Compliance & Frameworks**
-SOC 2 Type 2 | NIST 800-171 | HIPAA | CMMC Level 2
-GDPR | FERPA | COPPA | PCI DSS | CIS Controls
-
-**Penetration Testing**
-Kali Linux | Metasploit | Burp Suite | Nmap | Nessus
-OWASP ZAP | Wireshark | Web App & Network Pentesting
-
----
-
 ## Beyond the Terminal
 Faith. Family. Baking. Inconsistent workouts. Drawing and painting.
 Light gaming. Rollercoasters. Astronomy. Geology. Sci-fi.
