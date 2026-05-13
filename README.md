@@ -6,8 +6,7 @@ Cybersecurity leader by day, security engineer by night.
 ---
 
 ## What I Do
-13 years in cybersecurity across IT Infrastructure, IAM, zero trust, endpoint management, BCDR, cloud security, and compliance. Currently building in public: identity automation,
-Microsoft Graph API, AI Labs, and various hands-on security labs.
+13 years in cybersecurity across IT Infrastructure, IAM, zero trust, endpoint management, BCDR, cloud security, and compliance. Currently building in public: identity automation, Microsoft Graph API, AI Labs, and various hands-on security labs.
 
 CISSP | GCPN | GFACT | CEH | CHFI | CompTIA Network+
 
@@ -38,8 +37,6 @@ Light gaming. Rollercoasters. Astronomy. Geology. Sci-fi.
 ---
 
 ## Let's Connect
-- 🌐 [cibercazadora.github.io](https://cibercazadora.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/p-g-lopez)
+- 🌐 [LinkTree](https://linktr.ee/priscilla.lopez)
 - ☕ [Buy me a coffee](https://www.buymeacoffee.com/pglopez)
-- ## GitHub Stats
-![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibercazadora&show_icons=true&theme=dark)
+
